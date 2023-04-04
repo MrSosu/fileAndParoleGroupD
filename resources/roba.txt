@@ -1,0 +1,4 @@
+ciao a tutti
+in questa live coding useremo questo file di testo
+per fare dei test
+che ci servono per capire se tutto andrà bene
